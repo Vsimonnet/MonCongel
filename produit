@@ -1,0 +1,3 @@
+{"produit":[{"Nom":"pain","Quantite":"3","Categorie":"base","Marque":"Carrefour","Distributeur":"Carrefour"},
+            "{"Nom":"sorbet","Quantite":"2","Categorie":"dessert","Marque":"Magnum","Distributeur":"Leclerc"},
+            "{"Nom":"frites","Quantite":"4","Categorie":"feculent","Marque":"McCain","Distributeur":"Auchan"}]};
