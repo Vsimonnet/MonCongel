@@ -1,3 +1,22 @@
-{"produit":[{"Nom":"pain","Quantite":"3","Categorie":"base","Marque":"Carrefour","Distributeur":"Carrefour"},
-            "{"Nom":"sorbet","Quantite":"2","Categorie":"dessert","Marque":"Magnum","Distributeur":"Leclerc"},
-            "{"Nom":"frites","Quantite":"4","Categorie":"feculent","Marque":"McCain","Distributeur":"Auchan"}]};
+{
+    "produit" : [
+        {
+            "Id": "1",
+            "Nom": "Haricots",
+            "Categorie": "Legume",
+            "Quantite": "2"
+        },
+        {
+            "Id":"2",
+            "Nom": "Carottes",
+            "Categorie": "Legume",
+            "Quantite": "1"
+        },
+        {
+            "Id":"3",
+            "Nom":"Steak",
+            "Categorie":"Viande",
+            "Quantite":"5"
+        }
+    ]
+}
