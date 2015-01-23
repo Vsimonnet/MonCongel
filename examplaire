@@ -1,0 +1,22 @@
+{
+    "exemplaire" : [
+        {
+            "Id": "1",
+            "Nom": "Haricots",
+            "Produit": "Haricots",
+            "DLC": "10/02/2015"
+        },
+        {
+            "Id":"2",
+            "Nom": "Carottes",
+            "Produit": "Carotte",
+            "DLC": "15/03/2015"
+        },
+        {
+            "Id":"3",
+            "Nom":"Steak",
+            "Produit":"Steak",
+            "DLC":"30/01/2015"
+        }
+    ]
+}
