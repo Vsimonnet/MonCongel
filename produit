@@ -37,8 +37,8 @@
             "Nom": "Pain",
             "Categorie": "Cereales",
             "Quantite": "2",
-            "Marque":"",
-            "Distributeur":""
+            "Marque":"N/A",
+            "Distributeur":"N/A"
         },
         {
             "Id":"6",
