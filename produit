@@ -23,6 +23,30 @@
             "Quantite": "1",
             "Marque":"LeClerc",
             "Distributeur":"LeClerc"
+        },
+        {
+            "Id":"4",
+            "Nom": "Saucisse",
+            "Categorie": "Viande",
+            "Quantite": "3",
+            "Marque":"Bigard",
+            "Distributeur":"Champion"
+        },
+        {
+            "Id":"5",
+            "Nom": "Pain",
+            "Categorie": "Cereales",
+            "Quantite": "2",
+            "Marque":"",
+            "Distributeur":""
+        },
+        {
+            "Id":"6",
+            "Nom": "Sorbet Fraise",
+            "Categorie": "Produit laitier",
+            "Quantite": "1",
+            "Marque":"Magnum",
+            "Distributeur":"Monoprix"
         }
     ]
 }
