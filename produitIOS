@@ -9,7 +9,7 @@
         {
             "Id":"2",
             "Nom":"Haricots verts",
-            "Categorie":"Légumes",
+            "Categorie":"Legume",
             "Quantite":"0",
             "Marque":"Geant Vert",
             "Distributeur":"InterMarche"
@@ -65,7 +65,7 @@
          {
             "Id": "9",
             "Nom": "Boulettes",
-            "Categorie": "viande",
+            "Categorie": "Viande",
             "Quantite": "1",
             "Marque":"Bigard",
             "Distributeur":"Carrefour"
