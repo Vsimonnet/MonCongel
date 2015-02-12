@@ -1,4 +1,4 @@
-{
+       [{
             "Id": "1",
             "Nom": "Brocoli",
             "Categorie": "Legume",
@@ -109,4 +109,4 @@
             "Quantite": "2",
             "Marque":"Auchan",
             "Distributeur":"LeClerc"
-        }
+        }]
